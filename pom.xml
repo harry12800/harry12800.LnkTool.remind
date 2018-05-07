@@ -10,6 +10,18 @@
     <artifactId>okhttp</artifactId>
     <version>3.8.1</version>
 </dependency>
+	<!-- https://mvnrepository.com/artifact/com.hynnet/DJNativeSwing-SWT -->
+		<dependency>
+			<groupId>com.hynnet</groupId>
+			<artifactId>DJNativeSwing-SWT</artifactId>
+			<version>1.0.0</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/com.hynnet/DJNativeSwing -->
+		<dependency>
+			<groupId>com.hynnet</groupId>
+			<artifactId>DJNativeSwing</artifactId>
+			<version>1.0.0</version>
+		</dependency>
 
   </dependencies>
   <build>
